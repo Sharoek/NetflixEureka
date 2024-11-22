@@ -12,7 +12,7 @@ public class LeaderboardService {
 
     public LeaderboardService(WebClient.Builder webClientBuilder) {
         // Set the base URL for your external API
-        this.webClient = webClientBuilder.baseUrl("https://api.csgostake.com/affiliates/leaderboard/59844e9e622ae26c371a0fe4236fb249").build();
+        this.webClient = webClientBuilder.baseUrl("").build();
     }
 
     @Cacheable(value = "leaderboardCache", key = "#root.method.name")
