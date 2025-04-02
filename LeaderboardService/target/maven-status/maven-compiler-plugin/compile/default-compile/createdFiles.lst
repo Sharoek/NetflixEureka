@@ -1,0 +1,4 @@
+com\LeaderboardService\config\CacheConfig.class
+com\LeaderboardService\controller\LeaderboardController.class
+com\LeaderboardService\service\LeaderboardService.class
+com\LeaderboardService\LeaderboardServiceApplication.class

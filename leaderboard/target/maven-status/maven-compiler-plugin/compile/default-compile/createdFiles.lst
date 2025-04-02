@@ -1,0 +1,5 @@
+com\leaderboard\controller\LeaderboardController.class
+com\leaderboard\LeaderboardApplication.class
+com\leaderboard\config\WebClientConfig.class
+com\leaderboard\controller\HomeController.class
+com\leaderboard\service\LeaderboardClientService.class
